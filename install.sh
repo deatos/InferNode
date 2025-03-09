@@ -20,4 +20,4 @@ ollama pull llama3.1
 ollama pull llama3.2
 ollama pull deepseek-r1
 ollama pull phi4-mini
-ollama pull dolphin3
+#ollama pull dolphin3
