@@ -1,2 +1,7 @@
 # InferNode
-Script to automate the setup of ollama/vllm nodes
+Scripts to automate the setup of a general purpose AI server
+
+Supports
+OLLAMA
+VLLM
+
